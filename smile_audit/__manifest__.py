@@ -24,9 +24,9 @@ Suggestions & Feedback to: corentin.pouhet-brunerie@smile.fr
         'views/audit_rule_view.xml',
         'views/audit_log_view.xml',
     ],
-    "test": [
-        'test/audit_test.yml',
-    ],
+    # "test": [
+    #     'test/audit_test.yml',
+    # ],
     'installable': True,
     'auto_install': False,
     'application': False,
